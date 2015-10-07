@@ -1,0 +1,10 @@
+* TODO: Access MSAccess
+  - [X] Load MSAccess into memory
+  - [X] Weather Table(s) for data
+        - Weather Station table (ws)
+        - Weather Daily (wdataday)
+        Both tables are linked by wscode
+* TODO : Conversions
+  - [X] Weather date (Excel to ISO)
+  - [X] Wind (m/s to km/day)
+  - [ ] Country code lookup (2CH -> 3CH)
